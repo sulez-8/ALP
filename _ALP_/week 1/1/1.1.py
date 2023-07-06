@@ -1,0 +1,6 @@
+print("what's the best call of duty game")
+#this is not a joke this is a fact :)
+print("")
+print("")
+print("black ops 2")
+print("5+5=",5+5)
